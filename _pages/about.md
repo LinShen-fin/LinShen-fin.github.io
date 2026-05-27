@@ -33,9 +33,8 @@ redirect_from:
 
 <br> <!-- 增加段落间距 -->
 
-======
 
-教育经历X
+教育经历
 ======
 <div style="display: flex; align-items: baseline;">
   <span style="flex-shrink: 0; width: 200px;">2014.09 -- 2017.07</span>
