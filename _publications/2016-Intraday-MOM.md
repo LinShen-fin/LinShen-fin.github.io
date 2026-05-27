@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2016-Intraday-MOM
 excerpt: 'XXX'
-date: 2016
+date: 2016-09-01
 venue: 'Journal of Management Science and Engineering'
 coauthors: "Wei Zhang, and Yongjie Zhang" 
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
