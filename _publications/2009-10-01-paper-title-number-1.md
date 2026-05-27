@@ -2,9 +2,9 @@
 title: "Intraday market-wide ups/downs and returns"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2006-Intraday-MOM
 excerpt: 'XXX'
-date: 2016-9-01
+date: 2016
 venue: 'Journal of Management Science and Engineering'
 coauthors: "Wei Zhang, and Yongjie Zhang" 
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
