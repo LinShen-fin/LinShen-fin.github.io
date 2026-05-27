@@ -31,10 +31,11 @@ redirect_from:
   <span>清华大学 五道口金融学院，博士后研究员</span>
 </div>
 
+<br> <!-- 增加段落间距 -->
 
 教育经历
 ======
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: baseline;">
   <span style="flex-shrink: 0; width: 200px;">2014.09 -- 2017.07</span>
   <span>天津大学 管理与经济学部，管理科学与工程，管理学博士</span>
 </div>
