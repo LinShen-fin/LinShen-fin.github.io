@@ -9,12 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "林兟"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "现任天津大学管理与经济学部金融系教授，加入天津大学之前，曾任清华大学五道口金融学院博士后。他的研究领域为资产定价，行为金融，市场微观结构和计算实验金融，主要关注中国资本市场的动态和实体经济影响。其现有研究发表于《管理世界》、《管理科学学报》、《金融研究》、《系统工程理论与实践》、Journal of Economic Dynamic and Control等国内外高质量期刊，并多次于CICF、FMA、CFRC、CFAM、FSERM等国内外高质量学术会议汇报。其成果获得多项奖项，包括金融研究年度优秀论文、中国金融学年会三等奖、FSERM优秀论文、教育部科学研究优秀成果二等奖（人文社会科学）、天津市人文社科优秀成果二等奖等。"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://LinShen-fin.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
