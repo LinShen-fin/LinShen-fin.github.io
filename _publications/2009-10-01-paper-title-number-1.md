@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'XXX'
 date: 2016-9-01
 venue: 'Journal of Management Science and Engineering'
-coauthors: 'Wei Zhang, and Yongjie Zhang' 
+coauthors: "Wei Zhang, and Yongjie Zhang" 
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
