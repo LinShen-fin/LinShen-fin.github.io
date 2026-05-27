@@ -14,13 +14,35 @@ redirect_from:
 
 工作经历
 ======
-2026.01 至今    天津大学 管理与经济学部，教授
-2025.01 -- 2025.12    天津大学 管理与经济学部，英才副教授
-2021.07 -- 2024.12    天津大学 管理与经济学部，副研究员
-2017.07 -- 2021.07    清华大学 五道口津融学院，博士后研究员
+<div style="display: flex; align-items: baseline;">
+  <span style="flex-shrink: 0; width: 160px;">2026.01 至今</span>
+  <span>天津大学 管理与经济学部，教授</span>
+</div>
+<div style="display: flex; align-items: baseline;">
+  <span style="flex-shrink: 0; width: 160px;">2025.01 -- 2025.12</span>
+  <span>天津大学 管理与经济学部，英才副教授</span>
+</div>
+<div style="display: flex; align-items: baseline;">
+  <span style="flex-shrink: 0; width: 160px;">2021.07 -- 2024.12</span>
+  <span>天津大学 管理与经济学部，副研究员</span>
+</div>
+<div style="display: flex; align-items: baseline;">
+  <span style="flex-shrink: 0; width: 160px;">2017.07 -- 2021.07</span>
+  <span>清华大学 五道口金融学院，博士后研究员</span>
+</div>
+
 
 教育经历
 ======
-2014.09 -- 2017.07    天津大学 管理与经济学部，管理科学与工程，管理学博士
-2012.09 -- 2014.09    天津大学 管理与经济学部，应用经济学，经济学硕士
-2008.09 -- 2012.07    天津大学 管理与经济学部，电子商务，  管理学学士
+<div style="display: flex; justify-content: space-between;">
+  <span style="flex-shrink: 0; margin-right: 15px;">2014.09 -- 2017.07</span>
+  <span>天津大学 管理与经济学部，管理科学与工程，管理学博士</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span style="flex-shrink: 0; margin-right: 15px;">2012.09 -- 2014.09</span>
+  <span>天津大学 管理与经济学部，应用经济学，经济学硕士</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span style="flex-shrink: 0; margin-right: 15px;">2008.09 -- 2012.07</span>
+  <span>天津大学 管理与经济学部，电子商务，管理学学士</span>
+</div>
