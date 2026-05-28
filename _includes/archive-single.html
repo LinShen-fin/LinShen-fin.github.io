@@ -38,7 +38,7 @@
     <!-- 仅当存在 coauthors 字段时显示，格式为 "coauthored with: 张三, 李四" -->
     {% if post.coauthors %}
       <p class="page__meta" style="margin-top: -0.2em; margin-bottom: 0.5em; font-size: 0.95em; color: #666;">
-        <strong>coauthored with:</strong> {{ post.coauthors }}
+        <strong>合作者：</strong> {{ post.coauthors }}
       </p>
     {% endif %}
 
@@ -63,29 +63,29 @@
     
     <!-- 原有的引用和下载链接逻辑 -->
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.paperurl }}">下载论文</a> | <a href="{{ post.slidesurl }}">下载PPT</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.paperurl }}">下载论文</a> | <a href="{{ post.slidesurl }}">下载PPT</a></p>
     {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.paperurl }}">下载论文</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.paperurl }}">下载论文</a></p>
     {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.slidesurl }}">下载PPT</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
     {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.slidesurl }}">下载PPT</a></p>
     {% elsif post.citation and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p>引用：{{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
+      <p>引用：{{ post.citation }}</p>
     {% elsif post.paperurl and post.bibtexurl %}
       <p><a href="{{ post.paperurn }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p><a href="{{ post.slidesurl }}">下载PPT</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p><a href="{{ post.slidesurl }}">下载PPT</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
