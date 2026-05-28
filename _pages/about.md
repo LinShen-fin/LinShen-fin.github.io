@@ -30,9 +30,6 @@ redirect_from:
   <span>清华大学 五道口金融学院，博士后研究员</span>
 </div>
 
-<br> <!-- 增加段落间距 -->
-
-
 教育经历
 ======
 <div style="display: flex; align-items: baseline;">
