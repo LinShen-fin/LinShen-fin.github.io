@@ -34,6 +34,7 @@ redirect_from:
   <span>清华大学 五道口金融学院，博士后研究员</span>
 </div>
 
+</br>
 
 教育经历
 ======
