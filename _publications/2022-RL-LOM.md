@@ -6,7 +6,7 @@ permalink: /publication/2022-RL-LOM
 excerpt: '我们展示了基于信息的强化学习如何在限制性理性框架下，通过信息渠道影响交易者行为、内生流动性供给及价格发现。研究发现，非知情交易者倾向于追逐知情交易者的市价单，而知情交易者则战略性地利用这一行为。'
 date: 2022-11-01
 venue: 'Journal of Economic Dynamics & Control'
-coauthors: "Xue-Zhong He (Xi’an Jiaotong-Liverpool University)，Shen Lin (Tianjin University)"
+coauthors: "Xue-Zhong He (Xi’an Jiaotong-Liverpool University)"
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.jedc.2022.104497'
 citation: 'He, X.-Z., & Lin, S. (2022). Reinforcement Learning Equilibrium in Limit Order Markets. Journal of Economic Dynamics & Control, 144, 104497.'
