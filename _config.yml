@@ -83,10 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  ja:
     title: 'Journal Articles'    
+  wp:
+    title: 'Working Papers'
   conferences:
     title: 'Conference Papers'
 
