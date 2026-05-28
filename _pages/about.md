@@ -32,7 +32,7 @@ redirect_from:
   <span>清华大学 五道口金融学院，博士后研究员</span>
 </div>
 
-教育经历
+<h2 id="教育经历" style="margin-top: 30px;">教育经历</h2>
 ======
 <div style="display: flex; align-items: baseline;">
   <span style="flex-shrink: 0; width: 200px;">2014.09 -- 2017.07</span>
