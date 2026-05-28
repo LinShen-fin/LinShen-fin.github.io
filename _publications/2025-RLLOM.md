@@ -6,7 +6,7 @@ permalink: /publication/2025-RLLOM
 excerpt: '我们展示了基于收益的强化学习（RL）如何帮助在限价订单市场中实现理性预期均衡（REE）。研究发现：1）做市商（投机者）主要提供流动性，而流动性消耗呈现“倒U型”与“U型”特征；2）非知情交易者利用订单簿信息进行交易。'
 date: 2025-01-01
 venue: 'Journal of Economic Dynamics & Control'
-coauthors: "Xuan Zhou (Beijing Jiaotong University)，Shen Lin (Tianjin University)，Xue-Zhong He (Xi’an Jiaotong-Liverpool University)" 
+coauthors: "Xuan Zhou (Beijing Jiaotong University)，Xue-Zhong He (Xi’an Jiaotong-Liverpool University)" 
 slidesurl: ''
 paperurl: 'https://doi.org/10.1016/j.jedc.2024.104991'
 citation: 'Zhou, X., Lin, S., & He, X.-Z. (2025). Reinforcement learning and rational expectations equilibrium in limit order markets. Journal of Economic Dynamics and Control, 172, 104991.'
