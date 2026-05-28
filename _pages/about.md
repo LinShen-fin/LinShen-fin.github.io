@@ -13,6 +13,8 @@ redirect_from:
   
 <p style="text-align: justify;">我的部分研究发表于《管理世界》、《管理科学学报》、《金融研究》、《系统工程理论与实践》、Journal of Economic Dynamic and Control等期刊，并多次于CICF、FMA、CFRC、CFAM、FSERM等学术会议汇报进行。我的成果也获得了包括国家自然科学基金面上、青年项目和博士后科学基金特别资助和面上一等项目的支持，并获得金融研究年度优秀论文、中国金融学年会三等奖、FSERM优秀论文、教育部科学研究优秀成果二等奖（人文社会科学）、天津市人文社科优秀成果二等奖等奖项。</p>
 
+<p style="text-align: justify;">欢迎对证券市场和量化投资研究感兴趣的同学通过邮箱联系我，由于学科特点，需要至少熟练掌握一门以下编程语言（Python, Matlab, Stata）。</p>
+
 工作经历
 ======
 <div style="display: flex; align-items: baseline;">
@@ -47,3 +49,5 @@ redirect_from:
   <span style="flex-shrink: 0; width: 200px;">2008.09 -- 2012.07</span>
   <span>天津大学 管理与经济学部，电子商务，管理学学士</span>
 </div>
+
+
