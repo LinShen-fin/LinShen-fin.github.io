@@ -15,6 +15,8 @@ redirect_from:
 
 <p style="text-align: justify;">欢迎对证券市场和量化投资研究感兴趣的同学通过邮箱联系我，由于学科特点，需要至少熟练掌握一门以下编程语言（Python, Matlab, Stata）。</p>
 
+</br>
+
 工作经历
 ======
 <div style="display: flex; align-items: baseline;">
