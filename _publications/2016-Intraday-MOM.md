@@ -1,7 +1,7 @@
 ---
 title: "Intraday market-wide ups/downs and returns"
 collection: publications
-category: manuscripts
+category: ja
 permalink: /publication/2016-Intraday-MOM
 excerpt: '我们发现中国市场存在显著的日内动量，使用开盘30分钟的上涨股票数量占比可以显著预测日内剩余时间收益率。'
 date: 2016-09-01
