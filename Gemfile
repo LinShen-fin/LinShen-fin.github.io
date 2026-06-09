@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows 上 Jekyll 需要时区数据（Linux/macOS 不需要）
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

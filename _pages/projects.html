@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign projects_pi = site.projects | where: "role", "主持" | sort: 'date' | reverse %}
+{% assign projects_part = site.projects | where: "role", "参与" | sort: 'date' | reverse %}
+{% for post in projects_pi %}
+  {% include archive-single.html %}
+{% endfor %}
+{% for post in projects_part %}
+  {% include archive-single.html %}
+{% endfor %}
